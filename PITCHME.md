@@ -1,4 +1,8 @@
-# Let's Get Started
+# Wprowadzenie do uczenia maszynowego z użyciem ML.NET
+
+---
+
+# Uczenie maszynowe vs podejście klasyczne
 
 ---
 
